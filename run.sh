@@ -1,0 +1,1 @@
+jupyter nbconvert --to=html Homework1.ipynb
